@@ -1,6 +1,8 @@
 ### Small application that mimics a communication between broker and a client through message-oriented middleware (MoM) using RabbitMQ
  <br> 
-![image1.png](image1.png)
+ 
+ ![image1.png](image1.png)
+ 
 First clone the repo, then run:
 
 ```
