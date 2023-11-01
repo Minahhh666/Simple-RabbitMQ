@@ -9,7 +9,7 @@ docker-compose up
 to start all services.
 
 On the other hand, open you browser and check "localhost:15672" to access the rabbitMQ UI. Use "guest" for both the username and the password. You should see something like this:
-
+![image2.png](image2.pmg)
 Once the "pika_example" container is running succesfully, run:
 
 ```
